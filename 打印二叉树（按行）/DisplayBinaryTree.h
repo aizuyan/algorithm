@@ -12,4 +12,3 @@ typedef struct _list {
 node *createBinaryTree();
 node *createNode();
 list *createList();
-void *listAppend(list *tail, list *item);
